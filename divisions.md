@@ -28,5 +28,5 @@ Last update: **14/10/2022** | Publisher: **GOC Team**
 
 
 
-You can create one in our discord now!
+You can create one in our [discord](https://gocservice.github.io/goc/redirects/discord.html) now!
 Check it out.

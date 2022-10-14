@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Divisions already created.
+title: Divisions
 permalink: /divisions-created/
 ---
 

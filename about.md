@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to the official GOC Page link from roblox,
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The website is maintained by psvks. And mainly create by LightFate
+The website has a look refresh and this project has been working on 6 months.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Thanks to all members that are inside our discord,
 
+The GOC Team.
 
-[jekyll-organization]: https://github.com/jekyll

@@ -17,12 +17,12 @@ The GOC Team.
 
 ## Credits to...
 
-Jekyll - Website scripter.
-psvks -  Website maintainer.
-Lightfate23 - Publisher and Made this beautiful fan made community.
-GitHub - Thanks for free domain.
-Dogop_Kk - Division creator.
-Beautiful - Division creator.
+Jekyll - Website scripter.  
+psvks -  Website maintainer.  
+Lightfate23 - Publisher and Made this beautiful fan made community.  
+GitHub - Thanks for free domain.  
+Dogop_Kk - Division creator.  
+Beautiful - Division creator.  
 
 
 Thanks everybody that its on our [discord](https://gocservice.github.io/goc/redirects/discord.html)!

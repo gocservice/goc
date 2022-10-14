@@ -4,7 +4,7 @@ title: Divisions already created.
 permalink: /divisions-created/
 ---
 
-Last update: 14/10/2022
+Last update: **14/10/2022** | Publisher: **GOC Team**
 
 # Intels or divisions created by default.
 
@@ -19,11 +19,11 @@ Last update: 14/10/2022
 # Intels or divisions created by users.
 
 ```markdown
- # SSF
- # DSS
- # Project Omega Division
- # GOC Special Forces
- # Royal Intelligence
+ # SSF - Beautiful#4614
+ # DSS - psvks#4788
+ # Project Omega Division - Lightfate23#7466
+ # GOC Special Forces - Lightfate23#7466
+ # Royal Intelligence - Dogop_Kk#7681
 ```
 
 
